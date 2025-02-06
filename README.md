@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm a Programmer passionate about AI/Software development. Here you'll find my latest projects, contributions, and more about what I'm up to.
 
 ## 🚀 About Me
-- 💻 I specialize in [Python/Core Java/ Bash/ Website].
-- 🌱 I’m currently learning Lua.
+- 💻 I specialize in [ Python/ Java/ Bash/ Django/ HTML/ NVIM/ lua].
+- 🌱 I’m currently student.
 - 📫 How to reach me: coder.ajinkya.shinde@gmail.com.
 - 📝 I'm open to collaborating on interesting projects! Feel free to reach out.
 
